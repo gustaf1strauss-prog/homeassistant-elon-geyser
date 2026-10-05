@@ -1,0 +1,8 @@
+{
+  "domain": "elon_geyser",
+  "name": "Elon Geyser",
+  "codeowners": ["@gustaf1strauss-prog"],
+  "documentation": "https://github.com/gustaf1strauss-prog/homeassistant-elon-geyser",
+  "iot_class": "local_polling",
+  "version": "1.0.0"
+}
